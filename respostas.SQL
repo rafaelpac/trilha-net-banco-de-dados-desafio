@@ -1,3 +1,8 @@
+-- criei e testei as respostas em:
+-- https://onecompiler.com/sqlserver/42uumhwh3
+-- só excluí as queries iniciais de criação do DATABASE
+
+
 -- 1
 SELECT Nome, Ano FROM Filmes;
 
